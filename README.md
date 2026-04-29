@@ -1,8 +1,6 @@
 # Hey there! I'm Prashant Pandey 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prashant-pandey-4&label=Profile%20Views&color=6A38C2&style=flat" alt="profile views" />
-</p>
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fprashant-pandey-4&count_bg=%236A38C2&title_bg=%23555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
 
 ---
 
@@ -48,7 +46,7 @@
   <a href="https://www.linkedin.com/in/prashant-pandey01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:prashantpandey3103@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/prashant-pandey-4" target="_blank">
