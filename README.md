@@ -8,9 +8,9 @@
 
 - 🎯 Passionate **Full Stack Developer** who loves building real-world web apps
 - 🌱 Currently learning **Next.js** & diving deeper into backend systems
-- 💼 Built projects like a **Job Portal** with React, Node.js & MongoDB
-- 🤝 Open to **collaborations** on interesting web projects
-- ⚡ Fun fact: I debug faster with chai ☕ in hand!
+- 💼 Built freelance projects like a **Prepaid Meal System For Restaurent** with React, Node.js & MongoDB
+- 🤝 Open to **Freelancing** and **collaborations** on interesting web projects
+- ⚡ Fun fact: Started with "Hello World", now building products that solve real problems 
 
 ---
 
