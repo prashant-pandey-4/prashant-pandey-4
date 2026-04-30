@@ -8,7 +8,7 @@
 
 - 🎯 Passionate **Full Stack Developer** who loves building real-world web apps
 - 🌱 Currently learning **Next.js** & diving deeper into backend systems
-- 💼 Built freelance projects like a **Prepaid Meal System For Restaurent** with React, Node.js & MongoDB
+- 💼 Built freelance projects like a **Prepaid Meal System For Restaurent** with Next.js and typescript
 - 🤝 Open to **Freelancing** and **collaborations** on interesting web projects
 - ⚡ Fun fact: Started with "Hello World", now building products that solve real problems 
 
