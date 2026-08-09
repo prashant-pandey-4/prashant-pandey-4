@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashant-pandey-4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=prashant-pandey-4&show_icons=true&theme=tokyonight&hide_border=true" width="48%](https://github-readme-stats.vercel.app/api?username=prashant-pandey-4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-pandey-4&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
