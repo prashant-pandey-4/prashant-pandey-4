@@ -25,20 +25,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="[https://github-readme-stats.vercel.app/api?username=prashant-pandey-4&show_icons=true&theme=tokyonight&hide_border=true" width="48%](https://github-readme-stats.vercel.app/api?username=prashant-pandey-4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prashant-pandey-4&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashant-pandey-4&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
----
 
 ### 📫 Connect With Me
 
